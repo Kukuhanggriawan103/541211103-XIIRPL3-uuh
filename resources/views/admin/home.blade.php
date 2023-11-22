@@ -16,32 +16,32 @@
                                 <div class="copyright">
                                     <div class="card mb-3">
                                         <div class="text-center">
-                                            <img class="card-img-top" style="width: 30%;" src="{{asset('admin/images/icon/NinjaSS.jpg')}}" alt="Card image cap">
+                                            <img class="card-img-top" style="width: 25%;" src="{{asset('admin/images/icon/NinjaSS.jpg')}}" alt="Card image cap">
                                         </div>
                                         <div class="card-body">
-                                          <h5 class="card-title">Card title</h5>
+                                          <h5 class="card-title">Ninja 150 SS</h5>
                                           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                          <p class="card-text"><small class="text-muted">Rp. 30.000.000</small></p>
                                         </div>
                                       </div>
                                       <div class="card mb-3">
                                         <div class="text-center">
-                                            <img class="card-img-top" style="width: 30%;" src="{{asset('admin/images/icon/ninjarr.jpg')}}" alt="Card image cap">
+                                            <img class="card-img-top" style="width: 25%;" src="{{asset('admin/images/icon/supermoto.jpg')}}" alt="Card image cap">
                                         </div>
                                         <div class="card-body">
-                                          <h5 class="card-title">Card title</h5>
+                                          <h5 class="card-title">Klx 150 Bf</h5>
                                           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                          <p class="card-text"><small class="text-muted">Rp. 32.000.000</small></p>
                                         </div>
                                       </div>
                                       <div class="card mb-3">
                                         <div class="text-center">
-                                            <img class="card-img-top" style="width: 50%;" src="{{asset('admin/images/icon/ABAKURA.png')}}" alt="Card image cap">
+                                            <img class="card-img-top" style="width: 25%;" src="{{asset('admin/images/icon/ninjarr.jpg')}}" alt="Card image cap">
                                         </div>
                                         <div class="card-body">
-                                          <h5 class="card-title">Card title</h5>
+                                          <h5 class="card-title">Ninja 150 RR</h5>
                                           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                          <p class="card-text"><small class="text-muted">Rp. 37.000.000</small></p>
                                         </div>
                                       </div>
                                       <p>Abakura Racing</p>
