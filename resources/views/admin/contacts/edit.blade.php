@@ -18,7 +18,7 @@
                                                 <input type="text" name="nama" class="form-control" value="{{ $contact->nama }}">
                                             </div>
                                               <div class="form-group">
-                                                <label for="nf-email" class=" form-control-label">Berapa unit</label>
+                                                <label for="nf-email" class=" form-control-label">Harga jual</label>
                                                 <input type="text" name="harga" class="form-control" value="{{ $contact->harga }}">
                                             </div>
                                             <div class="form-group">

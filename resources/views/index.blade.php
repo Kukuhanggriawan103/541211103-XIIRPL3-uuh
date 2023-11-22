@@ -31,7 +31,7 @@
                 <div class="d-flex justify-content-center mb-4">
                     <div class="header">
                         <a href="#">
-                            <img src="{{ asset('admin/images/icon/ABAKURA.png') }}" alt="biliard" width="200">
+                            <img src="{{ asset('admin/images/icon/ABAKURA.png') }}" alt="biliard" width="300">
                         </a>
                         <h1 class="separator">Abakura Jaya</h1>
                         <p>Abakura Jaya adalah tempat penjualan motor sport di Indonesia. Abakura berhasil meluncurkan berbagai jenis sepeda dengan standar pabrik yang sangat tinggi. Abakura sebenarnya memiliki beberapa tipe motor murah, namun ada tipe off-road dan supermoto yang memiliki mesin lebih rendah.
