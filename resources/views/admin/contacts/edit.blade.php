@@ -8,7 +8,7 @@
                             <div class="col-lg-12">
                                 <div class="card">
                                     <div class="card-header">
-                                        <strong>Form Edit</strong> Contact Us
+                                        <strong>Form Edit</strong>
                                     </div>
                                     <div class="card-body card-block">
                                         <form action="{{ route('contacts.update', $contact->id) }}" method="post" class="">

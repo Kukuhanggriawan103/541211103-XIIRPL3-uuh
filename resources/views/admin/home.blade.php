@@ -20,7 +20,7 @@
                                         </div>
                                         <div class="card-body">
                                           <h5 class="card-title">Ninja 150 SS</h5>
-                                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                          <p class="card-text">Ninja SS kuning hanya diproduksi dalam jumlah terbatas di tahun 2013, yaitu sekitar 10.000 unit. Hal ini membuat motor ini menjadi sangat langka dan sulit ditemukan.</p>
                                           <p class="card-text"><small class="text-muted">Rp. 30.000.000</small></p>
                                         </div>
                                       </div>
@@ -30,7 +30,7 @@
                                         </div>
                                         <div class="card-body">
                                           <h5 class="card-title">Klx 150 Bf</h5>
-                                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                          <p class="card-text">KLX150BF baru menawarkan pengendara performa off-road sejati disegala medan. Body ramping dengan ketinggian jok yang rendah, posisi riding yang nyaman serta kontrol yang mudah.</p>
                                           <p class="card-text"><small class="text-muted">Rp. 32.000.000</small></p>
                                         </div>
                                       </div>
@@ -40,7 +40,7 @@
                                         </div>
                                         <div class="card-body">
                                           <h5 class="card-title">Ninja 150 RR</h5>
-                                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                          <p class="card-text">Mesin 2-tak yang bertenaga ini memiliki performa yang cukup menakjubkan. Adapun kecepatan maksimum yang bisa dihasilkan mencapai hampir 138 km/jam.</p>
                                           <p class="card-text"><small class="text-muted">Rp. 37.000.000</small></p>
                                         </div>
                                       </div>
